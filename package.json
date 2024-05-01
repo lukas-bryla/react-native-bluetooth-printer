@@ -1,0 +1,26 @@
+{
+  "name": "@lukasbryla/react-native-bluetooth-printer",
+  "version": "1.0.0",
+  "description": "React native bluetooth printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukas-bryla/react-native-bluetooth-printer.git"
+  },
+  "keywords": [
+    "React",
+    "native"
+  ],
+  "author": "Lukáš Brýla",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.74.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lukas-bryla/react-native-bluetooth-printer/issues"
+  },
+  "homepage": "https://github.com/lukas-bryla/react-native-bluetooth-printer#readme"
+}
